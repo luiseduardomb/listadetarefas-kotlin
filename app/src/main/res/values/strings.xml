@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Lista de Tarefas</string>
+    <string name="filter_title">Filtro de Tarefas</string>
+    <string-array name="filter_options">
+        <item>Todas</item>
+        <item>Ativas</item>
+        <item>Finalizadas</item>
+    </string-array>
+</resources>
